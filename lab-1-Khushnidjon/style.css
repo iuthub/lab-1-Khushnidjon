@@ -1,0 +1,26 @@
+body{
+	background-color: rgb(88,84,70);
+	color: white;
+}
+#adjs{
+	color: yellow;
+}
+h2,h3{
+	color: lightblue;
+}
+p,li{
+	color: white;
+}
+li a{
+	color: red;
+}
+p.italic{
+	font-style: italic;
+}
+h2{
+	font-size: 35pt;
+}
+h3{
+	font-size: 18pt;
+}
+
